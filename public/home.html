@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/home.css " type="text/css">
+    <link rel="stylesheet" href="./vendor/font-awesome/css/all.css" type="text/css">
+    <!-- <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script> -->
+    <title><%= TITLE %></title>
+</head>
+<body>
+    <div id="root"></div>
+    <div id="header">
+        <div class="nav">
+            <ul class="link-list top-nav">
+                <li class="link menu first-app">
+                    <i class="fa-regular fa-bars"></i>
+                </li>
+
+                <li class="link search second-app">
+                    <i class="fa-regular fa-magnifying-glass"></i>
+                </li>
+            </ul>
+            <ul class="link-list middle-nav">
+                <li class="link home first-app">
+                    <i class="fa-solid fa-house-blank"></i>
+                    <!-- <i class="fa-regular fa-house-blank"></i> -->
+                </li>
+            </ul>
+            <ul class="link-list end-nav">
+                <li class="link message first-app">
+                    <i class="fa-solid fa-message"></i>
+                    <!-- <i class="fa-solid fa-message-exclamation"></i> -->
+                </li>
+                <li class="link notifications second-app">
+                    <i class="fa-solid fa-bell"></i>
+                    <!-- <i class="fa-solid fa-bell-on"></i> -->
+                </li>
+                <li class="link avatar profile last-app">
+                    <span class="img-avatar">
+                        <img src="./assets/img/default_avatar.svg" alt="" srcset="">
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="sub-nav overlay-menu" >
+        <div class="search-box top-background link-list" id="">
+            <i class="fa-solid fa-left back-icon"></i>
+            <div class="container-input">
+                <input type="text" name="find" id="search-box" autocomplete="off">
+                <button type="submit"><i class="fa-solid fa-magnifying-glass icon"></i></button>
+            </div>
+            <div class="container-data">
+                <div class="edit-tool-history">
+                    <b>Tìm kiếm gần đây</b>
+                    <i class="fa-solid fa-gear edit-history"></i>
+                </div>
+            </div>
+        </div>
+        <div class="notify-box top-background link-list" id="scroll-bar">
+            <i class="fa-solid fa-left back-icon"></i>
+            <div class="container-data">   
+                <div class="edit-tool-notify">
+                    <b>THÔNG BÁO</b>
+                    <i class="fa-solid fa-gear edit-notify"></i>
+                </div>             
+            </div>
+        </div>
+        <div class="message-box top-background link-list" id="scroll-bar">
+            <i class="fa-solid fa-left back-icon"></i>
+            <div class="container-input">
+                <input type="text" name="find" id="message-box" autocomplete="off" placeholder="Nhắn tin cùng bạn bè nào !">
+                <button type="submit"><i class="fa-solid fa-magnifying-glass icon"></i></button>
+            </div>
+            <div class="container-data">   
+                <div class="edit-tool-message">
+                    <b>TIN NHẮN</b>
+                    <i class="fa-solid fa-gear edit-message"></i>
+                </div>            
+            </div>
+            <div class="chat-box">
+                <div class="chat-header">
+                    <div class="first-container">
+                        <i class="fa-solid fa-left back-icon"></i>
+                        <span class="user-avatar avatar-message" style="background-image: url(./assets/img/avatartest2.jpg);"></span>
+                        <i class="fa-solid fa-circle online-status"></i>
+                        <!-- <span class="offline-status">1h</span> -->
+                        <div class="info-room">
+                            <span class="message-username">Minh Anh</span>
+                            <span class="status-value">Online</span>
+                        </div>
+                    </div>
+                    <div class="header-menu">
+                        <i class="fa-regular fa-angles-down menu-down"></i>
+                        <i class="fa-solid fa-phone phone"></i>
+                        <i class="fa-solid fa-video video"></i>
+                        <i class="fa-solid fa-ellipsis more"></i>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script src="./vendor/jquery/jquery.min.js" type="text/javascript" ></script>
+    <script type="module" src="./assets/js/header.js"></script>
+</body>
+</html>

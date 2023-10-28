@@ -1,0 +1,14 @@
+[2023-10-28 23:39:10] [info] SERVER IS LISTENING ON http://localhost PORT 3000
+[2023-10-28 23:39:11] [error] MongoServerError: bad auth : authentication failed
+    at Connection.onMessage (C:\Users\ADMIN\Downloads\Backup_14_08_2022_Web_social_network\node_modules\mongoose\node_modules\mongodb\lib\cmap\connection.js:203:30)
+    at MessageStream.<anonymous> (C:\Users\ADMIN\Downloads\Backup_14_08_2022_Web_social_network\node_modules\mongoose\node_modules\mongodb\lib\cmap\connection.js:63:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\ADMIN\Downloads\Backup_14_08_2022_Web_social_network\node_modules\mongoose\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (C:\Users\ADMIN\Downloads\Backup_14_08_2022_Web_social_network\node_modules\mongoose\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+    at _write (node:internal/streams/writable:333:10)
+    at Writable.write (node:internal/streams/writable:337:10)
+    at TLSSocket.ondata (node:internal/streams/readable:766:22)
+    at TLSSocket.emit (node:events:513:28)
+[2023-10-28 23:40:13] [info] SERVER IS LISTENING ON http://localhost PORT 3000
+[2023-10-28 23:40:14] [info] Database connect successfully !

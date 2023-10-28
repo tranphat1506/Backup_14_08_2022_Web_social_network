@@ -1,0 +1,536 @@
+{
+    "history": {
+        "1" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "Dmm quangg",
+            "redict" : "#"
+        },
+        "2" : {
+            "isUser" : true,
+            "href" : "https://kynguyenlamdep.com/wp-content/uploads/2022/06/avatar-meo-con-khung-long-500x500.jpg",
+            "text_display" : "Minh Anh",
+            "redict" : "#"
+        },
+        "3" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "dmm a hải lon",
+            "redict" : "#"
+        },
+        "4" : {
+            "isUser" : true,
+            "href" : "https://1.bp.blogspot.com/-x_9zfdIlDYg/YGLZgYMNSwI/AAAAAAAArEg/X2ZNWEwAZ-Y8l3tVU3Bt00ekTpk8Ke1dwCNcBGAsYHQ/s0/dd6d73eeb3561aee7c50dedeab910b32.jpeg",
+            "text_display" : "Quang đẹp trai",
+            "redict" : "#"
+        },
+        "5" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "Game hay",
+            "redict" : "#"
+        },
+        "6" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "Dmm quangg",
+            "redict" : "#"
+        },
+        "7" : {
+            "isUser" : true,
+            "href" : "https://kynguyenlamdep.com/wp-content/uploads/2022/06/avatar-meo-con-khung-long-500x500.jpg",
+            "text_display" : "Minh Anh",
+            "redict" : "#"
+        },
+        "8" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "dmm a hải lon",
+            "redict" : "#"
+        },
+        "9" : {
+            "isUser" : true,
+            "href" : "https://1.bp.blogspot.com/-x_9zfdIlDYg/YGLZgYMNSwI/AAAAAAAArEg/X2ZNWEwAZ-Y8l3tVU3Bt00ekTpk8Ke1dwCNcBGAsYHQ/s0/dd6d73eeb3561aee7c50dedeab910b32.jpeg",
+            "text_display" : "Quang đẹp trai",
+            "redict" : "#"
+        },
+        "10" : {
+            "isUser" : false,
+            "href" : "default",
+            "text_display" : "Game hay",
+            "redict" : "#"
+        }
+    },
+    "notifications": {
+        "1" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        },
+        "2" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"3" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"4" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"5" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"6" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"7" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"8" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"9" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"10" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"11" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"12" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+        ,"13" : {
+            "info" : {
+                "type" : "comment",
+                "in_what" : "post"
+            },
+            "first_object" : {
+                "isClient" : false,
+                "avt_href" : "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "name_display" : "Trần Phát"
+            },
+            "second_object" : {
+                "isClient" : true,
+                "avt_href" : "https://media.travelmag.vn/files/content/2021/07/02/tai-sao-nen-nuoi-meo6-14235392.jpg",
+                "name_display" : "Minh Anh"
+            },
+            "time_display" : "1 minutes ago",
+            "redict" : "#"
+        }
+    },
+    "get_list_messages": {
+        "1":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "2":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "3":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "4":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "5":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "6":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "7":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "8":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "9":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "10":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "11":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "12":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        },
+        "13":{
+            "info": {
+                "user_name": "Minh Anh",
+                "user_id": "123456789",
+                "user_profile_href": "/profile/123456789",
+                "user_avatar_href": "https://cafefcdn.com/thumb_w/650/203337114487263232/2022/3/3/photo1646280815645-1646280816151764748403.jpg",
+                "active_status" : {
+                    "status": true,
+                    "last_active_time": "none"
+                }
+            },
+            "data": {
+                "time" : "1659318874000",
+                "type": "text",
+                "last_message": "Hello ông!",
+                "status_message" : "offline"
+            }
+        }
+    }
+}

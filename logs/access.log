@@ -1,0 +1,17 @@
+[T7, 28 Thg 10 2023 23:40] | ::1 | - | GET / HTTP/1.1 | 302 64
+[T7, 28 Thg 10 2023 23:40] | ::1 | - | GET /account HTTP/1.1 | 200 9218
+[T7, 28 Thg 10 2023 23:40] | ::1 | - | GET /vendor/font-awesome-4.7/css/font-awesome.min.css HTTP/1.1 | 302 32
+[T7, 28 Thg 10 2023 23:40] | ::1 | - | GET /account HTTP/1.1 | 304 -
+[T7, 28 Thg 10 2023 23:41] | ::1 | - | POST /account/register HTTP/1.1 | 422 124
+[T7, 28 Thg 10 2023 23:41] | ::1 | - | POST /account/register HTTP/1.1 | 422 104
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | POST /account/register HTTP/1.1 | 200 259
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | POST /account/login HTTP/1.1 | 200 2
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | GET /account HTTP/1.1 | 302 46
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | GET / HTTP/1.1 | 200 340
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | GET /favicon.ico HTTP/1.1 | 404 150
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | GET / HTTP/1.1 | 304 -
+[T7, 28 Thg 10 2023 23:42] | ::1 | - | GET /home HTTP/1.1 | 404 143
+[T7, 28 Thg 10 2023 23:43] | ::1 | - | GET /chat HTTP/1.1 | 200 1889
+[T7, 28 Thg 10 2023 23:43] | ::1 | - | GET /get HTTP/1.1 | 200 326
+[T7, 28 Thg 10 2023 23:43] | ::1 | - | GET /chat HTTP/1.1 | 304 -
+[T7, 28 Thg 10 2023 23:43] | ::1 | - | GET /get HTTP/1.1 | 304 -

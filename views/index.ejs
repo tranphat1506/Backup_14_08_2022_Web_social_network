@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="./assets/css/responsive.css" type="text/css">
+
+    <title>Chat cùng người lạ!</title>
+    <!-- font icons google -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+    <!-- EJS HEADER -->
+    <div id="sub-header">
+        <div class="info-user">
+            <span id="total-user">Online: 0</span>
+        </div>
+    </div>
+    <div class="content">
+        <div class="text-content">
+            <span id="note">Hệ thống đang tìm cho bạn người lạ ...</span>
+            <div id = 'data' class="data">
+            </div>
+        </div>
+    </div>
+    <div id="client-tool">
+        <form id="form-chat">
+            <div id="leave-btn">
+                <button type="reset">THOÁT</button>
+            </div>
+            <div id="input-text">
+                <input type="text" placeholder="Người lạ đã vào!" id="user-input" autocomplete="none">
+            </div>
+            <div id="chat-button">
+                <button type="submit">ENTER</button>
+            </div>
+        </form>
+        <div class="get-stranger">
+            <button class="btn-stranger">VÀO CHAT NGAY !!</button>
+        </div>
+    </div>
+    <script src="vendor/jquery/jquery.js"></script>
+    <script src="socket.io/socket.io.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>

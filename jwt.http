@@ -1,0 +1,14 @@
+GET http://localhost:3000
+
+###
+
+POST http://localhost/home/login HTTP/1.1
+Content-Type: application/json
+
+                                                                                                                                                                                                                                { "email": "chouphat1506@gmail.com", "password": "Phat0909567187@"}
+
+###
+POST http://localhost/register HTTP/1.1
+Content-Type: application/json
+
+                                                                                                                                                                                                                            { "displayName": "Con caccc", "email": "chouphat1506@gmail.com", "password": "Phat0909567187@"}
